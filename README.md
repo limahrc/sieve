@@ -1,12 +1,12 @@
 # sieve
 Trabalho da disciplina de Sistemas Operacionais cujo objetivo é implementar uma variação distribuída do Crivo de
-Erastóstenes (em inglês, Sieve of Eratosthenes 1 ), um algoritmo simples e prático para
+Erastóstenes (em inglês, Sieve of Eratosthenes), um algoritmo simples e prático para
 encontrar números primos no intervalo entre 2 e um dado valor limite n.
 
 O programa é testado da seguinte maneira:
-./trab1 n onde n  ́e o número máximo que deve ser testado.
+./trab1 n onde n é o número máximo que deve ser testado.
 
-A thread de imprime as informações sobre cada número testado, EM
+A thread de resultados imprime as informações sobre cada número testado, EM
 ORDEM. Assim, se o número for primo ele é indicado como tal, juntamente com
 a sieve aonde ele ficou armazenado. Se o número não for primo, essa informação ̧
 também é impressa. Dessa forma, por exemplo, se executarmos
