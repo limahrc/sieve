@@ -12,12 +12,12 @@ a sieve aonde ele ficou armazenado. Se o número não for primo, essa informaç�
 também é impressa. Dessa forma, por exemplo, se executarmos
 ./trab1 10, teremos como resposta no terminal:
 
-2 is prime (stored in sieve 0)\n
-3 is prime (stored in sieve 1)\n
-4 divided by 2 at sieve 0\n
-5 is prime (stored in sieve 2)\n
-6 divided by 2 at sieve 0\n
-7 is prime (stored in sieve 3)\n
-8 divided by 2 at sieve 0\n
-9 divided by 3 at sieve 1\n
-10 divided by 2 at sieve 0\n
+2 is prime (stored in sieve 0)  
+3 is prime (stored in sieve 1)  
+4 divided by 2 at sieve 0  
+5 is prime (stored in sieve 2)  
+6 divided by 2 at sieve 0  
+7 is prime (stored in sieve 3)  
+8 divided by 2 at sieve 0  
+9 divided by 3 at sieve 1  
+10 divided by 2 at sieve 0  
